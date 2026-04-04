@@ -1,6 +1,5 @@
 ## Hi there 👋
 
-<!--
 I'm Thomas, a fullstack and software developer based in the US and S. Korea.
 
 I design and build various projects.
@@ -15,6 +14,5 @@ Fun Facts:
 I have two dogs and two cats.
 I play guitar and love music production as a hobby.
 Can speak English and Korean fluently.
-Hobbies: playing electric guitar, building things, hiking, swimming, and gaming on my Nintendo DS.
 
--->
+Hobbies: playing electric guitar, building things, hiking, swimming, and gaming on my Nintendo DS.
