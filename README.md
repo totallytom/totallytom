@@ -6,9 +6,9 @@ I design and build various projects.
 
 If there is an idea on mind, I'll mostly likely build and post it.
 
-My main techstack is React.js, Typescript, Tailwind, Next.js, PostgreSQL, and Framer Motion. My favorite tool might be Canva and Photoshop but I am learning Figma.
+My main techstack is React.js, Typescript, Tailwind, Next.js, PostgreSQL, and Framer Motion. Favorite tool might be Canva and Photoshop but I am learning Figma.
 
-I have numerous big projects building privately. Four that are public are my main focuses.
+I have numerous big projects building privately. Three that are pinned are my main focuses.
 
 Fun Facts:
 I have two dogs and two cats.
